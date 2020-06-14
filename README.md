@@ -1,4 +1,4 @@
 # hello-world
 My first step on GitHub
-Hola!
-Soy Magali.
+Hola a todos!
+Soy Magali :).
