@@ -2,3 +2,5 @@
 My first step on GitHub
 Hola a todos!
 Soy Magali :).
+
+EStoy aprendiendo Git :D
